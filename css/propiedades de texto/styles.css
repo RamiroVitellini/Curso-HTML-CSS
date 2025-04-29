@@ -1,0 +1,21 @@
+p{
+    color: red;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: justify;
+    text-decoration: overline ;
+    line-height: 5;
+    letter-spacing: 1px;
+    text-transform: none;
+    
+
+}
+
+a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
